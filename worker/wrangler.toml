@@ -17,4 +17,4 @@ ENABLE_USER_DELETE_EMAIL = true
 [[d1_databases]]
 binding = "DB"
 database_name = "temp_email"
-database_id = "FCFCEBE3-0B22-417A-9CF6-1DDF6CB4214C"
+database_id = "fcfcebe3-0b22-417a-9cf6-1ddf6cb4214c"
